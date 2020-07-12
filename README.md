@@ -1,15 +1,14 @@
-# Hello $World
+# Hello $World, this.apply{Bedoy()}
 
-0x1C Years I love code, music and travel!. 
+## 0x1D Years I love code, music and travel!. 
+
+- About 7 years working as mobile developer within Kotlin, Java, Obj-C, Swift, Js.
+- Strong skills with UX/UI, I can replicate what designer wants ;)
+- Experience working with startups and big companies (I prefer startups <3)
+- Strong skills and follower of design patterns and good design guidelines (please don't forget testing!)
+
 ```kotlin
-return (Mobile-Development) = when(me){
-    Kotlin, Obj-C, js (recently) -> lover
-    Strong-UX/UI -> abilities
-    Strong-follower -> Design patterns
-    Love-work-with -> Architectures, testing
-    Android, iOS -> Native developer
-    react-native -> Recently growing-up
-}
+happines = (code, music) -> (code && music?:false)
 ```
 
 
