@@ -12,13 +12,16 @@ happines = (code, music) -> (code && music?:false)
 ```
 
 
-# Find me 
+# Find me here:
 
-##### E-mail: carlos.bedoy@gmail.ocm 
-##### Linkedin: https://www.linkedin.com/in/carlos-cervantes-bedoy-34248187/
-##### Spotify: https://open.spotify.com/user/12126936128?si=CjkQbaedR1GwWlO9TG9d1Q
-##### BedoyProject: https://open.spotify.com/artist/0PRlvVrpqxULYrlu0dLi51?si=wv1lN7lLQtqdsqlsxhWB7g
-##### Personal-Page: http://cbedoy.github.io/
+| Site | Link |
+| ------ | ------ |
+| Email | carlos.bedoy@gmail.com]|
+| Linkedin | https://www.linkedin.com/in/carlos-cervantes-bedoy-34248187/] |
+| Spotify | https://open.spotify.com/user/12126936128?si=CjkQbaedR1GwWlO9TG9d1Q] |
+| BedoyProject | https://open.spotify.com/artist/0PRlvVrpqxULYrlu0dLi51?si=wv1lN7lLQtqdsqlsxhWB7g |
+| Personal-Page |  http://cbedoy.github.io/ |
+
 
 
 ```
