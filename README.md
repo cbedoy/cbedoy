@@ -17,7 +17,7 @@ happines = (code, music) -> (code && music?:false)
 
 | Site | Link |
 | ------ | ------ |
-| Email | carlos.bedoy@gmail.com]|
+| Email | carlos.bedoy@gmail.com|
 | Linkedin | https://www.linkedin.com/in/carlos-cervantes-bedoy-34248187/] |
 | Spotify | https://open.spotify.com/user/12126936128?si=CjkQbaedR1GwWlO9TG9d1Q] |
 | BedoyProject | https://open.spotify.com/artist/0PRlvVrpqxULYrlu0dLi51?si=wv1lN7lLQtqdsqlsxhWB7g |
@@ -28,6 +28,8 @@ happines = (code, music) -> (code && music?:false)
 ```
 Line by line, logic and syntax, my dreams explode.
 ```
+
+![Carlos Bedoy's github stats](https://github-readme-stats.vercel.app/api?username=cbedoy)
 
 
 <!--
