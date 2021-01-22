@@ -13,6 +13,11 @@ happines = (code, music) -> (code && music?:false)
 ```
 
 
+![Carlos Bedoy's github stats](https://github-readme-stats.vercel.app/api?username=cbedoy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbedoy&layout=compact)]
+
+
 # Find me here:
 
 | Site | Link |
@@ -28,9 +33,6 @@ happines = (code, music) -> (code && music?:false)
 ```
 Line by line, logic and syntax, my dreams explode.
 ```
-
-![Carlos Bedoy's github stats](https://github-readme-stats.vercel.app/api?username=cbedoy)
-
 
 <!--
 **cbedoy/cbedoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
