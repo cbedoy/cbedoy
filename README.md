@@ -1,10 +1,10 @@
-# Hello $World, this.apply{Bedoy()}
+# Hello $World, apply{Bedoy(codeForever())}
 
 ## 0x1D years loving do code, music and travel!. 
 
 - About 7 years working as mobile developer within Kotlin, Java, Obj-C, Swift, Js.
-- Strong skills with UX/UI, I can replicate what designer wants (trust me) ;)
-- Experience working with startups and big companies (I prefer startups <3, open to experiment)
+- Strong skills with UX/UI, I can replicate what designer wants.
+- Experience working with startups and big companies 
 - Strong skills and follower of design patterns and good design guidelines (please don't forget testing!)
 - Open to learn new things, grow up ever
 
@@ -17,6 +17,17 @@ happines = (code, music) -> (code && music?:false)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbedoy&layout=compact)]
 
+# Porfolio
+
+|App name| Link|
+| ------ | ------ |
+|Okboy|https://play.google.com/store/apps/details?id=app.okboy.cliente&hl=es_US|
+|Bills|https://play.google.com/store/apps/details?id=org.pademobile.bill|
+|Sofi Express|https://play.google.com/store/apps/details?id=org.pademobile.sofiexpress|
+|National|https://play.google.com/store/apps/details?id=com.ehi.national.mobile|
+|DagM8|https://dagm8.com/|
+|Nerdy jokes|https://play.google.com/store/apps/details?id=iambedoy.nerdyjokes|
+|Quote Garden|https://play.google.com/store/apps/details?id=iambedoy.quotegarden|
 
 # Find me here:
 
