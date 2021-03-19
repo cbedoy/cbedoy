@@ -1,5 +1,10 @@
 # Hello $World, apply{Bedoy(codeForever())}
 
+I’m a mobile native **Android**, and iOS developer, passionate developer and musician, like to improve myself reading and learning new stuff and sharing my knowledge with somebody else.
+
+- 🌱 I’m currently learning **jetpack compose** and improving my skills with **MVI** and reactive programming.
+- 😄 Pronouns: Bedoy
+- ⚡ Fun fact: I lost about **65** pounds, i was really fat guy, right now my weight is about 160 pounds.
 ## 0x1D years loving do code, music and travel!. 
 
 - About 7 years working as mobile developer within Kotlin, Java, Obj-C, Swift, Js.
@@ -34,6 +39,7 @@ happines = (code, music) -> (code && music?:false)
 | Site | Link |
 | ------ | ------ |
 | Email | carlos.bedoy@gmail.com|
+|Techqueria|https://events.techqueria.org/u/carlos7/#/about|
 | Linkedin | https://www.linkedin.com/in/carlos-cervantes-bedoy-34248187/] |
 | Spotify | https://open.spotify.com/user/12126936128?si=CjkQbaedR1GwWlO9TG9d1Q] |
 | BedoyProject | https://open.spotify.com/artist/0PRlvVrpqxULYrlu0dLi51?si=wv1lN7lLQtqdsqlsxhWB7g |
