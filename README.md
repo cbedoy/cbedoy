@@ -1,4 +1,4 @@
-# Hello $World, apply{Bedoy(codeForever())}
+# Hello $World, apply{Bedoy?.run{ (codeForever()) } }
 
 I’m a mobile native **Android**, and iOS developer, passionate developer and musician, like to improve myself reading and learning new stuff and sharing my knowledge with somebody else.
 
@@ -9,7 +9,7 @@ I’m a mobile native **Android**, and iOS developer, passionate developer and m
 
 - About 7 years working as mobile developer within Kotlin, Java, Obj-C, Swift, Js.
 - Strong skills with UX/UI, I can replicate what designer wants.
-- Experience working with startups and big companies 
+- Experience working with startups and enterprise companies
 - Strong skills and follower of design patterns and good design guidelines (please don't forget testing!)
 - Open to learn new things, grow up ever
 
@@ -17,15 +17,11 @@ I’m a mobile native **Android**, and iOS developer, passionate developer and m
 happines = (code, music) -> (code && music?:false)
 ```
 
-
-![Carlos Bedoy's github stats](https://github-readme-stats.vercel.app/api?username=cbedoy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbedoy&layout=compact)]
-
 # Porfolio
 
 |App name| Link|
 | ------ | ------ |
+|PhunWallet|https://play.google.com/store/apps/details?id=com.phunware.wallet|
 |Okboy|https://play.google.com/store/apps/details?id=app.okboy.cliente&hl=es_US|
 |Bills|https://play.google.com/store/apps/details?id=org.pademobile.bill|
 |Sofi Express|https://play.google.com/store/apps/details?id=org.pademobile.sofiexpress|
