@@ -7,7 +7,7 @@ I’m a mobile native **Android**, and iOS developer, passionate developer and m
 - ⚡ Fun fact: I lost about **65** pounds, i was really fat guy, right now my weight is about 160 pounds.
 ## 0x1D years loving do code, music and travel!. 
 
-- About 7 years working as mobile developer within Kotlin, Java, Obj-C, Swift, Js.
+- About 8 years working as mobile developer within Kotlin, Java, Obj-C, Swift, Js.
 - Strong skills with UX/UI, I can replicate what designer wants.
 - Experience working with startups and enterprise companies
 - Strong skills and follower of design patterns and good design guidelines (please don't forget testing!)
