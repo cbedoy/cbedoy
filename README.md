@@ -3,9 +3,8 @@
 I’m a mobile native **Android**, and iOS developer, passionate developer and musician, like to improve myself reading and learning new stuff and sharing my knowledge with somebody else.
 
 - 🌱 I’m currently learning **jetpack compose** and improving my skills with **MVI** and reactive programming.
-- 😄 Pronouns: Bedoy
 - ⚡ Fun fact: I lost about **65** pounds, i was really fat guy, right now my weight is about 160 pounds.
-## 0x1D years loving do code, music and travel!. 
+## 0x1F years loving do code, music and travel!. 
 
 - About 8 years working as mobile developer within Kotlin, Java, Obj-C, Swift, Js.
 - Strong skills with UX/UI, I can replicate what designer wants.
