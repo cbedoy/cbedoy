@@ -5,22 +5,27 @@ I’m a mobile native **Android**, and iOS developer, passionate developer and m
 - ⚡ Fun fact: I lost about **65** pounds, i was really fat guy, right now my weight is about 160 pounds.
 ## 0x1F years loving do code, music and travel!. 
 
-- About 8 years working as mobile developer within Kotlin, Java, Obj-C, Swift, Js.
+- About 9 years working as mobile developer within Kotlin, Java, Obj-C, Swift, Js.
 - Strong skills with UX/UI, I can replicate what designer wants.
 - Experience working with startups and enterprise companies
 - Strong skills and follower of design patterns and good design guidelines (please don't forget testing!)
 - Open to learn new things, grow up ever
 
-```kotlin
-happines = (code, music) -> (code && music?:false)
+❤️ Travel, Cook, Compose, Spicy, Workout
+
+![Abstract](https://avatars.githubusercontent.com/u/5570799?s=400&u=4040f60ec9c70b1cea1e5977321a986c156d30f2&v=4)
 ```
+Line by line, code by code, logic and syntax, my dreams explode.
+```
+
 
 # Porfolio
 
 |App name| Link|
 | ------ | ------ |
+|Royal Caribbean International|https://play.google.com/store/apps/details?id=com.rccl.royalcaribbean&hl=es_MX&gl=US|
 |PhunWallet|https://play.google.com/store/apps/details?id=com.phunware.wallet|
-|Okboy|https://play.google.com/store/apps/details?id=app.okboy.cliente&hl=es_US|
+|Okboy|https://play.google.com/store/apps/details?id=app.okboy.cliente&hl=es_MX&gl=US|
 |Bills|https://play.google.com/store/apps/details?id=org.pademobile.bill|
 |Sofi Express|https://play.google.com/store/apps/details?id=org.pademobile.sofiexpress|
 |National|https://play.google.com/store/apps/details?id=com.ehi.national.mobile|
@@ -41,8 +46,11 @@ happines = (code, music) -> (code && music?:false)
 
 
 
-```
-Line by line, logic and syntax, my dreams explode.
+
+
+
+```kotlin
+happines = (code, music) -> (code && music?:false)
 ```
 
 <!--
