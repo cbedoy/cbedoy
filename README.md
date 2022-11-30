@@ -13,7 +13,6 @@ I’m a mobile native **Android**, and iOS developer, passionate developer and m
 
 ❤️ Travel, Cook, Compose, Spicy, Workout
 
-![Abstract](https://avatars.githubusercontent.com/u/5570799?s=400&u=4040f60ec9c70b1cea1e5977321a986c156d30f2&v=4)
 ```
 Line by line, code by code, logic and syntax, my dreams explode.
 ```
