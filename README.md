@@ -22,7 +22,6 @@ Line by line, code by code, logic and syntax, my dreams explode.
 
 |App name| Link|
 | ------ | ------ |
-|Royal Caribbean International|https://play.google.com/store/apps/details?id=com.rccl.royalcaribbean&hl=es_MX&gl=US|
 |PhunWallet|https://play.google.com/store/apps/details?id=com.phunware.wallet|
 |Okboy|https://play.google.com/store/apps/details?id=app.okboy.cliente&hl=es_MX&gl=US|
 |Bills|https://play.google.com/store/apps/details?id=org.pademobile.bill|
