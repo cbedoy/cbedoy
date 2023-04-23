@@ -1,6 +1,10 @@
 # Hello $World, apply{Bedoy?.run{ (codeForever()) } }
 
-I’m a mobile native **Android**, and iOS developer, passionate developer and musician, like to improve myself reading and learning new stuff and sharing my knowledge with somebody else.
+As a highly skilled mobile developer with a focus on Android and iOS platforms, I possess a strong passion for both programming and music. My dedication to self-improvement is evidenced by my constant reading and learning of new technologies, as well as my eagerness to share knowledge with others.
+
+In addition to my expertise in design patterns, code decoupling, flat design, and UX, I am also a self-producing musician with extensive experience playing guitar, ukulele, drums, bass, and keyboard, as well as composing original music.
+
+My attention to detail is reflected in my approach to every project, as I meticulously evaluate each line of code for logic and syntax to ensure optimal functionality. With a burning desire to realize my dreams, I am committed to creating innovative and seamless mobile applications that exceed expectations.
 
 - ⚡ Fun fact: I lost about **65** pounds, i was really fat guy, right now my weight is about 160 pounds.
 ## 0x1F years loving do code, music and travel!. 
