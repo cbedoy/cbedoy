@@ -1,13 +1,12 @@
-# Hello $World, apply{Bedoy?.run{ (codeForever()) } }
+# Hello $World, apply{ Bedoy?.run{ codeWith(&travel) } }
 
 As a highly skilled mobile developer with a focus on Android and iOS platforms, I possess a strong passion for both programming and music. My dedication to self-improvement is evidenced by my constant reading and learning of new technologies, as well as my eagerness to share knowledge with others.
 
 In addition to my expertise in design patterns, code decoupling, flat design, and UX, I am also a self-producing musician with extensive experience playing guitar, ukulele, drums, bass, and keyboard, as well as composing original music.
 
-My attention to detail is reflected in my approach to every project, as I meticulously evaluate each line of code for logic and syntax to ensure optimal functionality. With a burning desire to realize my dreams, I am committed to creating innovative and seamless mobile applications that exceed expectations.
 
 - ⚡ Fun fact: I lost about **65** pounds, i was really fat guy, right now my weight is about 160 pounds.
-## 0x1F years loving do code, music and travel!. 
+## 0x20 years loving do code, music and travel!. 
 
 - About 9 years working as mobile developer within Kotlin, Java, Obj-C, Swift, Js.
 - Strong skills with UX/UI, I can replicate what designer wants.
@@ -15,8 +14,7 @@ My attention to detail is reflected in my approach to every project, as I meticu
 - Strong skills and follower of design patterns and good design guidelines (please don't forget testing!)
 - Open to learn new things, grow up ever
 
-❤️ Travel, Cook, Compose, Spicy, Workout
-
+❤️ Pseudomusician, travel addict and code lober
 ```
 Line by line, code by code, logic and syntax, my dreams explode.
 ```
@@ -40,7 +38,6 @@ Line by line, code by code, logic and syntax, my dreams explode.
 | Site | Link |
 | ------ | ------ |
 | Email | carlos.bedoy@gmail.com|
-|Techqueria|https://events.techqueria.org/u/carlos7/#/about|
 | Linkedin | https://www.linkedin.com/in/carlos-cervantes-bedoy-34248187/] |
 | Spotify | https://open.spotify.com/user/12126936128?si=CjkQbaedR1GwWlO9TG9d1Q] |
 | BedoyProject | https://open.spotify.com/artist/0PRlvVrpqxULYrlu0dLi51?si=wv1lN7lLQtqdsqlsxhWB7g |
