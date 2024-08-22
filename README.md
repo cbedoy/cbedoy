@@ -1,37 +1,24 @@
 # Hello $World, apply{ Bedoy?.run{ codeWith(&travel) } }
 
-As a highly skilled mobile developer with a focus on Android and iOS platforms, I possess a strong passion for both programming and music. My dedication to self-improvement is evidenced by my constant reading and learning of new technologies, as well as my eagerness to share knowledge with others.
 
-In addition to my expertise in design patterns, code decoupling, flat design, and UX, I am also a self-producing musician with extensive experience playing guitar, ukulele, drums, bass, and keyboard, as well as composing original music.
+## 0x21 years loving to code, create music, and explore the world!
+With 11 years of experience as an Android Software Engineer, I have dedicated my career to crafting high-quality code and developing innovative mobile applications. One of the aspects I enjoy most about my profession is teaching and guiding others, offering feedback to help them grow and improve. Beyond coding, I am a passionate musician and multi-instrumentalist, composing and producing my own music. I also enjoy capturing breathtaking views as a drone pilot, merging technology and creativity in every aspect of my life
 
+## Professional Experience
+- 11 years of hands-on experience in Android development, specializing in building robust and user-friendly applications.
+- Passionate about teaching and mentoring others, providing feedback to help them achieve their best work.
+- Always eager to learn and adopt new technologies to keep my skills sharp and relevant.
+- Strong advocate for continuous growth, both personally and professionally.
 
-- ⚡ Fun fact: I lost about **65** pounds, i was really fat guy, right now my weight is about 160 pounds.
-## 0x20 years loving do code, music and travel!. 
-
-- About 9 years working as mobile developer within Kotlin, Java, Obj-C, Swift, Js.
-- Strong skills with UX/UI, I can replicate what designer wants.
-- Experience working with startups and enterprise companies
-- Strong skills and follower of design patterns and good design guidelines (please don't forget testing!)
-- Open to learn new things, grow up ever
-
-❤️ Pseudomusician, travel addict and code lober
+## Personal Passions
+- ❤️ Pseudomusician & Mult-instrumentalist: I play multiple instruments, compose original music, and produce my tracks.
+- 🌍 Travel Enthusiast: I love exploring new places and cultures, combining my passion for travel with my tech skills.
+- 🚁 Drone Pilot: Capturing the world from above, one flight at a time.
+- 💻 Code Lover: Writing clean, efficient, and scalable code is not just a job—it's a passion.
+  
 ```
 Line by line, code by code, logic and syntax, my dreams explode.
 ```
-
-
-# Porfolio
-
-|App name| Link|
-| ------ | ------ |
-|PhunWallet|https://play.google.com/store/apps/details?id=com.phunware.wallet|
-|Okboy|https://play.google.com/store/apps/details?id=app.okboy.cliente&hl=es_MX&gl=US|
-|Bills|https://play.google.com/store/apps/details?id=org.pademobile.bill|
-|Sofi Express|https://play.google.com/store/apps/details?id=org.pademobile.sofiexpress|
-|National|https://play.google.com/store/apps/details?id=com.ehi.national.mobile|
-|DagM8|https://dagm8.com/|
-|Nerdy jokes|https://play.google.com/store/apps/details?id=iambedoy.nerdyjokes|
-|Quote Garden|https://play.google.com/store/apps/details?id=iambedoy.quotegarden|
 
 # Find me here:
 
@@ -42,9 +29,6 @@ Line by line, code by code, logic and syntax, my dreams explode.
 | Spotify | https://open.spotify.com/user/12126936128?si=CjkQbaedR1GwWlO9TG9d1Q] |
 | BedoyProject | https://open.spotify.com/artist/0PRlvVrpqxULYrlu0dLi51?si=wv1lN7lLQtqdsqlsxhWB7g |
 | Personal-Page |  http://cbedoy.github.io/ |
-
-
-
 
 
 
