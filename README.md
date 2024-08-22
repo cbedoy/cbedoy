@@ -27,7 +27,10 @@ Line by line, code by code, logic and syntax, my dreams explode.
 | Email | carlos.bedoy@gmail.com|
 | Linkedin | https://www.linkedin.com/in/carlos-cervantes-bedoy-34248187/] |
 | Spotify | https://open.spotify.com/user/12126936128?si=CjkQbaedR1GwWlO9TG9d1Q] |
-| BedoyProject | https://open.spotify.com/artist/0PRlvVrpqxULYrlu0dLi51?si=wv1lN7lLQtqdsqlsxhWB7g |
+| BedoyDotFly | https://www.instagram.com/bedoydotfly |
+| Morfema | https://www.instagram.com/somosmorfema/ |
+| NoHumansPlay | https://www.instagram.com/nohumansplay |
+| Bedoy Project | https://open.spotify.com/artist/0PRlvVrpqxULYrlu0dLi51?si=wv1lN7lLQtqdsqlsxhWB7g |
 | Personal-Page |  http://cbedoy.github.io/ |
 
 
